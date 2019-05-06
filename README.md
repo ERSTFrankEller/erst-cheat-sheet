@@ -14,10 +14,14 @@ Git clone is a Git command line utility which is used to target an existing repo
 ### pull
 
 
-### commit
+### commit 
+Bo add information
 ### status
+Bo add information
 ### fetch
+Christian add information
 ### mearge
+Christian add information
 ### rm
 ### branch
 ### checkout
